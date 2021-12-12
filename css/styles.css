@@ -434,7 +434,7 @@ header {
     border-radius: 4px;
 }
 
-.client-icon:focus {
+.client-icon {
     fill: rgba(175, 177, 184, 1);
 }
 
