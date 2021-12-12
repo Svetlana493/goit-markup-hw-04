@@ -434,11 +434,11 @@ header {
     border-radius: 4px;
 }
 
-.client-icon {
+.client-icon:focus {
     fill: rgba(175, 177, 184, 1);
 }
 
-.client-icon.group1:focus {
+.client-icon.group1 {
     width: 106px;
     height: 60px;
     margin: 14px 38px;
