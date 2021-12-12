@@ -449,8 +449,8 @@ header {
     color: var(--accent-color);
 }
 
-.client .client-border:hover .client-icon.group1:hover,
-.client .client-border:focus .client-icon.group1:focus {
+.client .client-border:hover .client-icon.group1,
+.client .client-border:focus .client-icon.group1 {
     fill: var(--accent-color);
 }
 
