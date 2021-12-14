@@ -451,7 +451,6 @@ header {
 
 .client-icon {
     fill: rgba(175, 177, 184, 1);
-    transition: fill 250ms var(--animation-style);
 }
 
 .client-icon.group1 {
