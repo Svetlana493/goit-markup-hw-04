@@ -439,6 +439,11 @@ header {
     margin-right: 30px;
 }
 
+.client-border:hover,
+.client-border:focus {
+    color: var(--accent-color);
+}
+
 .client-border {
     display: block;
     width: 170px;
